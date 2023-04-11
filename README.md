@@ -134,9 +134,10 @@ Place the binary in a directory included in your system's PATH.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## More information about the project
-The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. The sample screenshots is below:<br>
+The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. The sample screenshots are below:<br>
 
-<img width="600" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="images/example1.png"><br>
+![example1](images/example1.png)<br>
+![example2](images/example2.png)<br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
