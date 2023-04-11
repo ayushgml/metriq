@@ -69,7 +69,7 @@ metriq [command] --help
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
-Download the appropriate binary for your platform from the <a href="https://github.com/ayushgml/metriq/releases">GitHub release page</a>, and place it in a directory included in your system's PATH.<br>
+Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.<br>
 <div align="center">
 <table>
   <thead>
@@ -136,20 +136,26 @@ Place the binary in a directory included in your system's PATH.
 ## More information about the project
 The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. The sample screenshots are below:<br>
 
-![example1](https://user-images.githubusercontent.com/72748253/231295707-46f02d4e-c8b7-4fc2-a2fe-af0fc062f307.png)<br>
-![example2](https://user-images.githubusercontent.com/72748253/231295723-924a14a7-71ec-4b16-b233-6657fd035051.png)<br>
+![example1](images/example1.png)<br>
+![example2](images/example2.png)<br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you'd like to contribute to the Metriq project, please submit an issue or pull request on the <a href="https://github.com/ayushgml/metriq/pulls">GitHub repository</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 <!-- CONTACT -->
 ## Contact
 
 Ayush Gupta - [@itsayush__](https://twitter.com/itsayush__) - ayushgml@gmail.com
 
-Project Link: [https://github.com/ayushgml/metriq](https://github.com/ayushgml/metriq)
+Project Link: [https://github.com/ayushgml/iptracker-cli](https://github.com/ayushgml/iptracker-cli)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
