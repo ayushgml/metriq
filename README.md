@@ -136,8 +136,8 @@ Place the binary in a directory included in your system's PATH.
 ## More information about the project
 The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. The sample screenshots are below:<br>
 
-![example1](images/example1.png)<br>
-![example2](images/example2.png)<br>
+![example1](https://user-images.githubusercontent.com/72748253/231295707-46f02d4e-c8b7-4fc2-a2fe-af0fc062f307.png)<br>
+![example2](https://user-images.githubusercontent.com/72748253/231295723-924a14a7-71ec-4b16-b233-6657fd035051.png)<br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
