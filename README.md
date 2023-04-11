@@ -69,10 +69,8 @@ metriq [command] --help
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
-Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.
-Click here:<br>
+Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.<br>
 <div align="center">
-<img width="314" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="https://user-images.githubusercontent.com/72748253/231284581-66f54664-f16b-44bb-b302-dcf1ab803779.png"><br>
 <table>
   <thead>
     <tr>
@@ -136,10 +134,9 @@ Place the binary in a directory included in your system's PATH.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## More information about the project
-The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. Some of the app screenshots are below:<br>
+The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. The sample screenshots is below:<br>
 
 <img width="600" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="images/example1.png"><br>
-<img width="600" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="images/example2.png"><br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
