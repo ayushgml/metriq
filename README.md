@@ -69,7 +69,7 @@ metriq [command] --help
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
-Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.<br>
+Download the appropriate binary for your platform from the <a href="https://github.com/ayushgml/metriq/releases">GitHub release page</a>, and place it in a directory included in your system's PATH.<br>
 <div align="center">
 <table>
   <thead>
