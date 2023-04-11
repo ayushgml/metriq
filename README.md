@@ -149,7 +149,7 @@ If you'd like to contribute to the Metriq project, please submit an issue or pul
 
 Ayush Gupta - [@itsayush__](https://twitter.com/itsayush__) - ayushgml@gmail.com
 
-Project Link: [https://github.com/ayushgml/iptracker-cli](https://github.com/ayushgml/iptracker-cli)
+Project Link: [https://github.com/ayushgml/metriq](https://github.com/ayushgml/metriq)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
