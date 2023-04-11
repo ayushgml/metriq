@@ -68,8 +68,36 @@ metriq [command] --help
 
 ## Installation
 Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.
-Click here:
-<img width="314" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="https://user-images.githubusercontent.com/72748253/231284581-66f54664-f16b-44bb-b302-dcf1ab803779.png">
+Click here:<br>
+<img width="314" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="https://user-images.githubusercontent.com/72748253/231284581-66f54664-f16b-44bb-b302-dcf1ab803779.png"><br>
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Windows</th>
+      <th colspan="2">MacOS</th>
+      <th rowspan="2">Linux</th>
+    </tr>
+    <tr>
+      <th>Intel</th>
+      <th>Apple Silicon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## Building from Source
