@@ -43,15 +43,15 @@ metriq [command]
 ```
 ### Available commands
 
-`completion`: Generate the autocompletion script for the specified shell
-`cpu`: Get the CPU usage of the system
-`disk`: Get the disk usage of the system
-`health`: Get the health of the system
-`help`: Help about any command
-`host`: Get the host info
-`net`: Get the network usage of the system
-`ram`: Get the RAM usage of the system
-`version`: Get the version of the CLI tool
+`completion`: Generate the autocompletion script for the specified shell <br>
+`cpu`: Get the CPU usage of the system <br>
+`disk`: Get the disk usage of the system <br>
+`health`: Get the health of the system <br>
+`help`: Help about any command <br>
+`host`: Get the host info <br>
+`net`: Get the network usage of the system <br>
+`ram`: Get the RAM usage of the system <br>
+`version`: Get the version of the CLI tool <br>
 
 ### Flags
 
@@ -69,10 +69,12 @@ metriq [command] --help
 ## Installation
 Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.
 Click here:<br>
+<center>
 <img width="314" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="https://user-images.githubusercontent.com/72748253/231284581-66f54664-f16b-44bb-b302-dcf1ab803779.png"><br>
 <table>
   <thead>
     <tr>
+      <th rowspan="2"></th>
       <th rowspan="2">Windows</th>
       <th colspan="2">MacOS</th>
       <th rowspan="2">Linux</th>
@@ -84,12 +86,14 @@ Click here:<br>
   </thead>
   <tbody>
     <tr>
+      <td align="center">64-bit</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
     </tr>
     <tr>
+      <td align="center">32-bit</td>
       <td align="center">✅</td>
       <td></td>
       <td></td>
@@ -98,7 +102,7 @@ Click here:<br>
   </tbody>
 </table>
 
-
+</center>
 
 ## Building from Source
 
