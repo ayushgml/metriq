@@ -24,12 +24,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
-</div>
+
+
 Metriq is a powerful and easy-to-use CLI tool that allows you to monitor your system's performance metrics, such as CPU usage, memory usage, disk usage, and network traffic. With Metriq, you can keep an eye on your system's health and analyze its performance over time.
-
+<div align="center">
 <img width="590" alt="Screenshot 2023-04-12 at 1 51 59 AM" src="https://user-images.githubusercontent.com/72748253/231280627-c2a9f80c-513a-40cb-8db9-a3a9f9a9a812.png">
-
+</div>
 Read the below section to know how to use this tool.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,7 +69,7 @@ metriq [command] --help
 ## Installation
 Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.
 Click here:<br>
-<center>
+<div align="center">
 <img width="314" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="https://user-images.githubusercontent.com/72748253/231284581-66f54664-f16b-44bb-b302-dcf1ab803779.png"><br>
 <table>
   <thead>
@@ -102,7 +102,7 @@ Click here:<br>
   </tbody>
 </table>
 
-</center>
+</div>
 
 ## Building from Source
 
@@ -131,6 +131,10 @@ go build -o metriq
 ```
 
 Place the binary in a directory included in your system's PATH.
+
+## More information about the project
+The project can calculate the total and service wise score for your system using the ```health``` command. Some of the app screenshots are below:<br>
+
 
 
 <!-- CONTACT -->
