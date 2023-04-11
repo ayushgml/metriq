@@ -66,6 +66,8 @@ For more information about a command, use:
 metriq [command] --help
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Installation
 Download the appropriate binary for your platform from the GitHub release page, and place it in a directory included in your system's PATH.
 Click here:<br>
@@ -131,11 +133,18 @@ go build -o metriq
 ```
 
 Place the binary in a directory included in your system's PATH.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## More information about the project
-The project can calculate the total and service wise score for your system using the ```health``` command. Some of the app screenshots are below:<br>
+The project can calculate the total and service wise health score for your system using the ```health``` command. The ```-r``` flag tells you both the general and operating system specific recommendations based on your system's health report. Some of the app screenshots are below:<br>
 
+<img width="600" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="images/example1.png"><br>
+<img width="600" alt="Screenshot 2023-04-12 at 2 17 36 AM" src="images/example2.png"><br>
 
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you'd like to contribute to the Metriq project, please submit an issue or pull request on the <a href="https://github.com/ayushgml/metriq/pulls">GitHub repository</a>.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
